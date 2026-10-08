@@ -1,2 +1,2 @@
 # RPL-SRS
-Software Requirements Specification (SRS) untuk tugas RPL
+Software Requirements Specification (SRS) Sistem Booking Tiket Bus KELOMPOK 3
